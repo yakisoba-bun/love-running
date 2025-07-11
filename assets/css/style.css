@@ -217,7 +217,7 @@ hr {
 }
 
 /* Media query: large or landscape phones (576px and up) */
-@media screen and (min width: 576px) {
+@media screen and (min-width: 576px) {
     #photos {
         column-count: 2;
         column-gap: 0;
